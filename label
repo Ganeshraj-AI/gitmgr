@@ -1,0 +1,1 @@
+npx "@builder.io/dev-tools@latest" code  --url vcp://quickcopy/vcp-69ef21a3394f4bfaabe049ecf1a2020e --spaceId 
